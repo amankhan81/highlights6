@@ -1,0 +1,5 @@
+{
+  "name": "CricketScan AI – Smart Highlights",
+  "description": "An AI-powered video analysis tool that automatically detects cricket match highlights like 4s, 6s, and wickets from broadcast graphics to generate a highlight reel.",
+  "requestFramePermissions": []
+}
